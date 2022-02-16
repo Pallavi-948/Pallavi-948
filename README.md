@@ -1,6 +1,6 @@
-L- 👋 Hi, I’m @Pallavi-948
-- 👀 I’m interested in ML, Data Visualization.
-- 🌱 I’m currently learning programming langauges like R, Python and database query langauges like SQL.
+L- 👋 Hi, I’m Pallavi 
+- 👀 I’m interested in ML, Data Visualization & EDA.
+- 🌱 I’m currently a Market Research Analyst with having knowledge in Python, R, MySQL, and Tableau etc.
 - 💞️ I’m looking to collaborate on new domains of Data Science and Machine Learning.
 - 📫 How to reach me ...
 
